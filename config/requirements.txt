@@ -3,6 +3,7 @@ coverage==4.5.4
 Django>=2.2.9
 django-cors-headers
 django-crispy-forms
+django-rest-knox==4.1.0
 djangorestframework
 geocoder==1.38.1
 kiwisolver==1.0.1
